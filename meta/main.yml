@@ -13,6 +13,16 @@ galaxy_info:
     - vivid
     - wily
     - xenial
+  - name: Fedora
+    versions:
+    - 20
+    - 21
+    - 22
+    - 23
+    - 24
+    - 25
+    - 26
+    - 27
   galaxy_tags:
   - desktop
   - photography
