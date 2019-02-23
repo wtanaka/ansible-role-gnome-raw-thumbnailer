@@ -1,2 +1,3 @@
 ---
-package_name: raw-thumbnailer
+package_names:
+- raw-thumbnailer
